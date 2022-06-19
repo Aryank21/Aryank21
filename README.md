@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aryank21
+- 👋 Hi, I’m @Aryan
 - 👀 I’m interested in java & web Develepment.
-- 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning fullstack
+- 💞️ currently i am pursuing MCA at BCIIT 
 - 📫 How to reach me ...
 
 <!---
