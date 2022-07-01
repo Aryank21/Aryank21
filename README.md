@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryan
 - 👀 I’m interested in java & web Develepment.
-- 🌱 I’m currently learning fullstack
+- 🌱 I’m currently learning fullstack Development
 - 💞️ currently i am pursuing MCA at BCIIT,Delhi
 - 📫 How to reach me ...
 
