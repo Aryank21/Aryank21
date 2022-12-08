@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aryan
-- 👀 I’m interested in java & web Develepment.
+- 👀.
 - 🌱 
 - 💞️ currently i am pursuing MCA at BCIIT,Delhi
-- 📫 How to reach me ...
+- 📫
 
 <!---
 Aryank21/Aryank21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
