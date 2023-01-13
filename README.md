@@ -3,7 +3,9 @@
 - 🌱 I have skills in core Java,java collection framework,
      HTML, CSS,Data structure & Algorithms. 
 - 💞️ currently i am pursuing MCA(2nd year) at BCIIT,Delhi
-- 📫 www.linkedin.com/in/aryan-kumar-mca
+- 📫 to reach me at
+      www.linkedin.com/in/aryan-kumar-mca
+       aryanbgp9798@gmail.com
 
 <!---
 Aryank21/Aryank21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
