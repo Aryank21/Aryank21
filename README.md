@@ -4,10 +4,11 @@
      HTML, CSS,Data structure & Algorithms. 
 - 💞️ currently i am pursuing MCA(Final year) at BCIIT,Delhi
 - 📫 to reach me at
-      🔗 linkdin 
+      🔗 linkdin -
          www.linkedin.com/in/aryan-kumar-mca
 
        📨 Email-ID 
+
          aryanbgp9798@gmail.com
 
 <!---
