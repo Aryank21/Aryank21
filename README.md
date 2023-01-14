@@ -4,14 +4,6 @@
      HTML, CSS,Data structure & Algorithms,SQL. 
 - 💞️ currently i am pursuing MCA(Final year) at BCIIT,Delhi
 - 📫 to reach me at
-      🔗 linkdin -
-         www.linkedin.com/in/aryan-kumar-mca
+         🔗 www.linkedin.com/in/aryan-kumar-mca
+         ✉ aryanbgp9798@gmail.com
 
-       📨 Email-ID 
-
-         aryanbgp9798@gmail.com
-
-<!---
-Aryank21/Aryank21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
