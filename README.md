@@ -21,8 +21,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryank21&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryank21&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aryank21&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryank21&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -43,10 +43,4 @@
   <a href="mailto:aryanbgp9798@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryank21&theme=redical&hide_border=true" />
 </p>
