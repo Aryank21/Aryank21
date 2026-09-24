@@ -20,23 +20,26 @@
 
 ### 📊 Developer Dashboard
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F54A2A,100:0D1117&height=140&section=header&text=Developer%20Dashboard&fontSize=34&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Live%20stats%20from%20my%20GitHub&descSize=14&descAlignY=60" width="100%" />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F54A2A,100:0D1117&height=3&section=header" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Aryank21&label=Profile%20Views&color=F54A2A&style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/Aryank21?style=for-the-badge&logo=github&color=F54A2A&labelColor=0D1117" />
 </p>
 
 <table align="center">
   <tr>
-<td align="center" valign="top">
-  <img src="https://github-readme-stats-rho-black.vercel.app/api/top-langs/?username=Aryank21&hide_border=true&bg_color=0D1117&title_color=F54A2A&text_color=C9D1D9&langs_count=6&card_width=420&custom_title=Most%20Used%20Languages" />
-</td>
     <td align="center" valign="top">
-      <img height="180" src="https://github-readme-stats-rho-black.vercel.app/api/top-langs/?username=Aryank21&layout=compact&hide_border=true&bg_color=0D1117&title_color=F54A2A&text_color=C9D1D9&langs_count=8&card_width=420" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryank21&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F54A2A&icon_color=F54A2A&text_color=C9D1D9&ring_color=F54A2A&border_color=30363D&border_radius=16&card_width=400&custom_title=Aryan's%20GitHub%20Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-rho-black.vercel.app/api/top-langs/?username=Aryank21&layout=donut&langs_count=6&bg_color=0D1117&title_color=F54A2A&text_color=C9D1D9&border_color=30363D&border_radius=16&card_width=400&custom_title=Language%20Breakdown%20(%25)" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aryank21&hide_border=true&background=0D1117&ring=F54A2A&fire=F54A2A&currStreakNum=F54A2A&currStreakLabel=F54A2A&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=Aryank21&background=0D1117&border=30363D&ring=F54A2A&fire=F54A2A&currStreakNum=F54A2A&currStreakLabel=F54A2A&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=16" />
 </p>
 
 <p align="center">
@@ -44,12 +47,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryank21&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryank21&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F54A2A&height=3&section=header" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F54A2A,100:0D1117&height=100&section=footer" width="100%" />
 
 ---
 
