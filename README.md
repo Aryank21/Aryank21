@@ -26,9 +26,9 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="top">
-      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryank21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F54A2A&icon_color=F54A2A&text_color=C9D1D9&ring_color=F54A2A&include_all_commits=true&count_private=true&card_width=420" />
-    </td>
+<td align="center" valign="top">
+  <img src="https://github-readme-stats-rho-black.vercel.app/api/top-langs/?username=Aryank21&hide_border=true&bg_color=0D1117&title_color=F54A2A&text_color=C9D1D9&langs_count=6&card_width=420&custom_title=Most%20Used%20Languages" />
+</td>
     <td align="center" valign="top">
       <img height="180" src="https://github-readme-stats-rho-black.vercel.app/api/top-langs/?username=Aryank21&layout=compact&hide_border=true&bg_color=0D1117&title_color=F54A2A&text_color=C9D1D9&langs_count=8&card_width=420" />
     </td>
