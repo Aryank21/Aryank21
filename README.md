@@ -21,9 +21,8 @@
 ### 📊 Languages Used
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aryank21/Aryank21/main/assets/languages.svg" width="420" alt="Most used languages" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryank21&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
-
 ---
 
 ### 📫 Reach Me
