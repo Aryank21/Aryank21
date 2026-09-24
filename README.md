@@ -18,19 +18,37 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Developer Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryank21&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F54A2A,100:0D1117&height=3&section=header" width="100%" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryank21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F54A2A&icon_color=F54A2A&text_color=C9D1D9&ring_color=F54A2A&include_all_commits=true&count_private=true&card_width=420" />
+    </td>
+    <td align="center" valign="top">
+      <img height="180" src="https://github-readme-stats-rho-black.vercel.app/api/top-langs/?username=Aryank21&layout=compact&hide_border=true&bg_color=0D1117&title_color=F54A2A&text_color=C9D1D9&langs_count=8&card_width=420" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aryank21&hide_border=true&background=0D1117&ring=F54A2A&fire=F54A2A&currStreakNum=F54A2A&currStreakLabel=F54A2A&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryank21&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-rho-black.vercel.app/api?username=Aryank21&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryank21&bg_color=0D1117&color=F54A2A&line=F54A2A&point=FFFFFF&area=true&area_color=F54A2A&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aryank21&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryank21&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F54A2A&height=3&section=header" width="100%" />
 </p>
 
 ---
