@@ -21,6 +21,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aryank21&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aryank21&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats-rho-black.vercel.app/api?username=Aryank21&show_icons=true&theme=radical&hide_border=true" />
 </p>
